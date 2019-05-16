@@ -1,7 +1,0 @@
-programowanie mia³o funkcjonalnoœæ. Ma polegaæ na wystawieniu zwolnieniu oprócz typu l4 i l10.
-Ma byæ rwnie¿ ze zwolnienia bêdzie numer identyfikacji podatkowej pracodawcy. Nasza aplikacja te¿ ma zawieraæ ten numer poniewa¿ je¿eli
-lekarz wyœle zwolnienie do zak³adu pracy ppacjenta to dobrze by by³o ¿eby zwolnienie zosta³o przes³ano do dobrego pracodawcy.
-Je¿eli zwonienie bêdzie mia³ dobry numer to zostaje przyjête jesi nie to zostaje odrzucone.
-Sklonowaæ aplikacje któr¹ zrobimy i wpisaæ tylko inny numer identyfikacji podatkowej.
-Bêdzie widaæ czy dzia³a tylko dla jednego numeru czy te¿ ró¿nie¿ dla innych.
-
