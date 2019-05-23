@@ -1,0 +1,140 @@
+Leci po naciśnięciu odśwież przy dodawaniu pracownika, gdy nie ma połączenia z bazą
+
+Szczegółowe informacje na temat wywoływania debugowania w trybie JIT (just in time)
+zamiast tego okna dialogowego znajdują się na końcu tego komunikatu.
+
+************** Tekst wyjątku **************
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: Wystąpił przynajmniej jeden błąd. ---> System.Net.Sockets.SocketException: Nieznany host
+   w System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   w System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   w System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   w System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- Koniec śladu stosu wyjątków wewnętrznych ---
+   w System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   w System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   w MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   w MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   w MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Wyjątek wewnętrzny #0) System.Net.Sockets.SocketException (0x80004005): Nieznany host
+   w System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   w System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   w System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   w System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   w MySql.Data.MySqlClient.NativeDriver.Open()
+   w MySql.Data.MySqlClient.Driver.Open()
+   w MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   w MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   w MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   w MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   w MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   w MySql.Data.MySqlClient.MySqlConnection.Open()
+   w System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   w System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   w System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   w Projekt.DataBaseConnection.ReadAllValues() w C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\Program.cs:wiersz 65
+   w Projekt.Main_Form.GetPeopleList() w C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\Główna.cs:wiersz 181
+   w Projekt.Main_Form.Refresh_Data() w C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\Główna.cs:wiersz 128
+   w Projekt.Main_Form.UPDATE_Click(Object sender, EventArgs e) w C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\Główna.cs:wiersz 399
+   w System.Windows.Forms.Control.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   w System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   w System.Windows.Forms.Control.WndProc(Message& m)
+   w System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   w System.Windows.Forms.Button.WndProc(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   w System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+************** Zestawy załadowane **************
+mscorlib
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.3416.0 built by: NET472REL1LAST_B
+    CodeBase: file:///C:/Windows/Microsoft.NET/Framework/v4.0.30319/mscorlib.dll
+----------------------------------------
+Projekt
+    Wersja zestawu: 1.0.0.0
+    Wersja Win32: 1.0.0.0
+    CodeBase: file:///C:/Users/Furmaniak/Documents/GitHub/Projekt/Projekt/Projekt/Projekt/bin/Debug/Projekt.exe
+----------------------------------------
+System.Windows.Forms
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.3324.0 built by: NET472REL1LAST_C
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms/v4.0_4.0.0.0__b77a5c561934e089/System.Windows.Forms.dll
+----------------------------------------
+System
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.3416.0 built by: NET472REL1LAST_B
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System/v4.0_4.0.0.0__b77a5c561934e089/System.dll
+----------------------------------------
+System.Drawing
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.3221.0 built by: NET472REL1LAST_C
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Drawing/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Drawing.dll
+----------------------------------------
+System.Data
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.3260.0 built by: NET472REL1LAST_C
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_32/System.Data/v4.0_4.0.0.0__b77a5c561934e089/System.Data.dll
+----------------------------------------
+System.Core
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.3362.0 built by: NET472REL1LAST_C
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Core/v4.0_4.0.0.0__b77a5c561934e089/System.Core.dll
+----------------------------------------
+System.Xml
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.3221.0 built by: NET472REL1LAST_C
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+System.Configuration
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.3324.0 built by: NET472REL1LAST_C
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Configuration/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Configuration.dll
+----------------------------------------
+System.Windows.Forms.resources
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.2053.0 built by: NET47REL1
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms.resources/v4.0_4.0.0.0_pl_b77a5c561934e089/System.Windows.Forms.resources.dll
+----------------------------------------
+MySql.Data
+    Wersja zestawu: 8.0.15.0
+    Wersja Win32: 8.0.15.0
+    CodeBase: file:///C:/Users/Furmaniak/Documents/GitHub/Projekt/Projekt/Projekt/Projekt/bin/Debug/MySql.Data.DLL
+----------------------------------------
+System.Transactions
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.3221.0 built by: NET472REL1LAST_C
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_32/System.Transactions/v4.0_4.0.0.0__b77a5c561934e089/System.Transactions.dll
+----------------------------------------
+System.EnterpriseServices
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.2053.0 built by: NET47REL1
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_32/System.EnterpriseServices/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.EnterpriseServices.dll
+----------------------------------------
+mscorlib.resources
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.7.2053.0 built by: NET47REL1
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/mscorlib.resources/v4.0_4.0.0.0_pl_b77a5c561934e089/mscorlib.resources.dll
+----------------------------------------
+
+************** Debugowanie w trybie JIT **************
+Aby włączyć debugowanie w trybie just in time (JIT), plik .config tej
+aplikacji lub komputera (machine.config) musi mieć
+wartość jitDebugging ustawioną w sekcji system.windows.forms.
+Aplikacja musi być również skompilowana z włączonym
+debugowaniem.
+
+Na przykład:
+
+<configuration>
+    <system.windows.forms jitDebugging="true" />
+</configuration>
+
+Gdy debugowanie JIT jest włączone, wszystkie nieobsługiwane wyjątki
+są wysyłane do debugera JIT zarejestrowanego na komputerze
+i nie są obsługiwane w tym oknie dialogowym.
+
+
