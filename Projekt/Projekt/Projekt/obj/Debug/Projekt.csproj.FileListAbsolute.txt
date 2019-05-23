@@ -1,0 +1,213 @@
+C:\Users\DELL\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\DELL\source\repos\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\DELL\source\repos\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\DELL\source\repos\Projekt\Projekt\bin\Debug\MySql.Data.dll
+C:\Users\DELL\source\repos\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\source\repos\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\DELL\source\repos\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\DELL\source\repos\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\DELL\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\DELL\source\repos\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\DELL\source\repos\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\DELL\source\repos\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form3.resources
+C:\Users\DELL\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Main_Form.resources
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Main_Form.resources
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form3.resources
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.dll
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.xml
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Michał\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.dll
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.xml
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Main_Form.resources
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form3.resources
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form4.resources
+C:\Users\DELL\Desktop\projekt IO 2\Projekt\Projekt\Projekt\obj\Debug\Projekt.Logowanie.resources
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.dll
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.xml
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Main_Form.resources
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form3.resources
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form4.resources
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Logowanie.resources
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Michał\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.dll
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.xml
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.Main_Form.resources
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form3.resources
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form4.resources
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.Logowanie.resources
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\PROJEKT IO 3\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.dll
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.xml
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.Main_Form.resources
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form3.resources
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form4.resources
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.Logowanie.resources
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\DELL\Desktop\PROJEKT IO 4\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.Main_Form.resources
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form3.resources
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form4.resources
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.Logowanie.resources
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.dll
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.xml
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\DELL\Desktop\PROJEKT IO 5\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.dll
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.xml
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.Main_Form.resources
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form3.resources
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form4.resources
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.Logowanie.resources
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Michał\Desktop\projekt IO6\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.Main_Form.resources
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form2.resources
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form3.resources
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form4.resources
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.Logowanie.resources
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.dll
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\Google.Protobuf.dll
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\MySql.Data.xml
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.xml
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Michał\Desktop\projekt IO6 — kopia\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CopyComplete

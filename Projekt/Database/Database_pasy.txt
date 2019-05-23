@@ -1,0 +1,8 @@
+[phpMyAdmin]
+https://remotemysql.com/phpmyadmin/
+
+Username: sZckDKLFyi 
+Database_name: sZckDKLFyi 
+Password: MNr3r8bKSB 
+Server: remotemysql.com 
+Port: 3306

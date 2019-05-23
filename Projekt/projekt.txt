@@ -1,0 +1,14 @@
+system kadrowo p³acowy
+otrzymuje zwolnienie
+obs³uga pracowników
+pobrannie zwolnienia z systemu opieki zdrowotnej
+na podstawie danyc ystem nalicza wynagrodzenie
+baza pracowników
+imiê nazwisko nr pesel p³eæ, stanowisko(?)
+pracownicy maj¹ okreœlone zarobki
+pracowniik dostaje informajê jakie wynagrodzenie i jakie sk³adki zosta³y odprowadzone na koniec miesi¹ca
+Wyn brutto pracownik odprowadza sk³adki
+pobiera w wersji el zwolnienie i przelicza wynagrodzenie, czy bra³ zwolnienie\
+80% wynagrodzenia za czas który by³ na zwolnieniu
+100% jeœli zwalnia siê ¿eby siê opiekowac
+Zwoleninia L4 (80%), L10(100%)

@@ -1,0 +1,24 @@
+
+DELETE FROM `Ksiegowi`;
+INSERT INTO `Ksiegowi`(`ID`, `ID_Firmowy`, `Imie`, `Nazwisko`, `Login`, `Haslo`) VALUES 
+('1','#KS1','Anna','Abacka','anna','123'),
+('2','#KS2','Beata','Babacka','beata','123'),
+('3','#KS3','Celina','Cabacka','celina','123'),
+('4','#KS4','Jurek','Dabacki','jurek','123'),
+('5','#KS5','Kamil','Ebacki','kamil','123');
+
+DELETE FROM `Pracownicy`;
+INSERT INTO `Pracownicy`(`Id`, `Imie`, `Nazwisko`, `Numer_PESEL`, `Plec`, `Stanowisko`, `Czy_Student`, `Rodzaj_Zatrudnienia`, `Pensja_Netto`) VALUES
+('1','Micha³','Babacki','1','M','Stanowisko 1','TAK','Umowa o prace','4000'),
+('2','Andrzej','Babacki','2','M','Stanowisko 2','NIE','Umowa zlecenia','2600'),
+('3','Przemek','Gabacki','3','M','Stanowisko 3','TAK','Umowa o prace','5000'),
+('4','Aleksander','Dêbacki','4','M','Stanowisko 1','NIE','Umowa o prace','5000'),
+('5','Eryk','Lubacki','5','M','Stanowisko 4','NIE','Umowa o prace','4000'),
+('6','Józef','Duracki','6','M','Stanowisko 5','TAK','Umowa o zlecenie','2300');
+
+
+DELETE FROM `Zwolnienia`;
+INSERT INTO `Zwolnienia`(`Id`, `Imiê`, `Nazwisko`, `Numer_PESEL`, `NIP_Pracodawcy`, `Typ_zwolnienia`, `Zwolnienie_OD`, `Zwolnienie_DO`) VALUES
+('1','Micha³','Babacki','1','543-223-21-21','L4','2019-04-01','2019-04-19'),
+('2','Andrzej','Babacki','2','123-322-32-23','L4','2019-05-02','2019-05-25'),
+('3','Przemek','Gabacki','3','543-221-21-21','L10','2019-04-09','2019-04-23');
