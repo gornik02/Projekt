@@ -1,5 +1,0 @@
-B³¹d 1
-Po zalogowaniu siê na konto administratora i przejœciu do zak³adki "Konta ksiêgowych" jest przycisk "Wyjœcie z trybu usuwania",
-mimo ¿e do tego trybu jeszcze siê nie wchodzi³o i siê w nim nie by³o. Na pocz¹tek chyba powinnien byæ przycisk "Tryb usuwania".
-B³¹d 2
-Po zalogowaniu siê na konta ksiêgowych tylko w pierwszym koncie mia³em mo¿liwoœæ dodawania i usuwania pracowników.
