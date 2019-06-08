@@ -1,0 +1,178 @@
+Szczegó³owe informacje na temat wywo³ywania debugowania w trybie JIT (just in time)
+zamiast tego okna dialogowego znajduj¹ siê na koñcu tego komunikatu.
+
+************** Tekst wyj¹tku **************
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+   w MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   w MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   w MySql.Data.MySqlClient.NativeDriver.Open()
+   w MySql.Data.MySqlClient.NativeDriver.Open()
+   w MySql.Data.MySqlClient.Driver.Open()
+   w MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   w MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   w MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   w MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   w MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   w MySql.Data.MySqlClient.MySqlConnection.Open()
+   w Projekt.DataBaseConnection.Delete_Person2(Int32 indeks, String nazwaBazyDanych) w C:\Users\DELL\Desktop\ProjektIO Edit 03.06\Projekt\Projekt\Projekt\Program.cs:wiersz 151
+   w Projekt.Main_Form.Del2_K_Click_1(Object sender, EventArgs e) w C:\Users\DELL\Desktop\ProjektIO Edit 03.06\Projekt\Projekt\Projekt\G³ówna.cs:wiersz 418
+   w Bunifu.Framework.UI.BunifuThinButton2.ayk(Object sender, EventArgs e)
+   w System.Windows.Forms.Control.OnClick(EventArgs e)
+   w System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   w System.Windows.Forms.Control.WndProc(Message& m)
+   w System.Windows.Forms.Label.WndProc(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   w System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+************** Zestawy za³adowane **************
+mscorlib
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1080.0 built by: NETFXREL3STAGE
+    CodeBase: file:///C:/Windows/Microsoft.NET/Framework/v4.0.30319/mscorlib.dll
+----------------------------------------
+Projekt
+    Wersja zestawu: 1.0.0.0
+    Wersja Win32: 1.0.0.0
+    CodeBase: file:///C:/Users/(L)oka/Downloads/ProjektIO%20Edit%2007.06/Projekt/Projekt/Projekt/bin/Debug/Projekt.exe
+----------------------------------------
+System.Windows.Forms
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms/v4.0_4.0.0.0__b77a5c561934e089/System.Windows.Forms.dll
+----------------------------------------
+System
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1081.0 built by: NETFXREL3STAGE
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System/v4.0_4.0.0.0__b77a5c561934e089/System.dll
+----------------------------------------
+System.Drawing
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1078.0 built by: NETFXREL3STAGE
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Drawing/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Drawing.dll
+----------------------------------------
+System.Configuration
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Configuration/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Configuration.dll
+----------------------------------------
+System.Core
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Core/v4.0_4.0.0.0__b77a5c561934e089/System.Core.dll
+----------------------------------------
+System.Xml
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1064.2 built by: NETFXREL3STAGE
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+Bunifu_UI_v1.5.3
+    Wersja zestawu: 1.5.3.0
+    Wersja Win32: 1.5.3.0
+    CodeBase: file:///C:/Users/(L)oka/Downloads/ProjektIO%20Edit%2007.06/Projekt/Projekt/Projekt/bin/Debug/Bunifu_UI_v1.5.3.DLL
+----------------------------------------
+Bunifu.UI.WinForms.BunifuImageButton
+    Wersja zestawu: 1.10.0.0
+    Wersja Win32: 1.7.0.0
+    CodeBase: file:///C:/Users/(L)oka/Downloads/ProjektIO%20Edit%2007.06/Projekt/Projekt/Projekt/bin/Debug/Bunifu.UI.WinForms.BunifuImageButton.DLL
+----------------------------------------
+Bunifu.UI.WinForms.BunifuTextbox
+    Wersja zestawu: 1.10.0.0
+    Wersja Win32: 1.5.5.2
+    CodeBase: file:///C:/Users/(L)oka/Downloads/ProjektIO%20Edit%2007.06/Projekt/Projekt/Projekt/bin/Debug/Bunifu.UI.WinForms.BunifuTextbox.DLL
+----------------------------------------
+Bunifu.Core
+    Wersja zestawu: 1.10.0.0
+    Wersja Win32: 1.5.5.2
+    CodeBase: file:///C:/Users/(L)oka/Downloads/ProjektIO%20Edit%2007.06/Projekt/Projekt/Projekt/bin/Debug/Bunifu.Core.DLL
+----------------------------------------
+System.Data
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1082.0 built by: NETFXREL3STAGE
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_32/System.Data/v4.0_4.0.0.0__b77a5c561934e089/System.Data.dll
+----------------------------------------
+System.Xml.Linq
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Xml.Linq/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.Linq.dll
+----------------------------------------
+System.Runtime.Serialization
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Runtime.Serialization/v4.0_4.0.0.0__b77a5c561934e089/System.Runtime.Serialization.dll
+----------------------------------------
+Embeded
+    Wersja zestawu: 0.0.0.0
+    Wersja Win32: 1.7.0.0
+    CodeBase: file:///C:/Users/(L)oka/Downloads/ProjektIO%20Edit%2007.06/Projekt/Projekt/Projekt/bin/Debug/Bunifu.UI.WinForms.BunifuImageButton.dll
+----------------------------------------
+Accessibility
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/Accessibility/v4.0_4.0.0.0__b03f5f7f11d50a3a/Accessibility.dll
+----------------------------------------
+Bunifu.UI.WinForms.BunifuButton
+    Wersja zestawu: 1.10.0.0
+    Wersja Win32: 1.5.5.2
+    CodeBase: file:///C:/Users/(L)oka/Downloads/ProjektIO%20Edit%2007.06/Projekt/Projekt/Projekt/bin/Debug/Bunifu.UI.WinForms.BunifuButton.DLL
+----------------------------------------
+System.Windows.Forms.resources
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms.resources/v4.0_4.0.0.0_pl_b77a5c561934e089/System.Windows.Forms.resources.dll
+----------------------------------------
+mscorlib.resources
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/mscorlib.resources/v4.0_4.0.0.0_pl_b77a5c561934e089/mscorlib.resources.dll
+----------------------------------------
+MySql.Data
+    Wersja zestawu: 8.0.15.0
+    Wersja Win32: 8.0.15.0
+    CodeBase: file:///C:/Users/(L)oka/Downloads/ProjektIO%20Edit%2007.06/Projekt/Projekt/Projekt/bin/Debug/MySql.Data.DLL
+----------------------------------------
+System.Transactions
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1080.0 built by: NETFXREL3STAGE
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_32/System.Transactions/v4.0_4.0.0.0__b77a5c561934e089/System.Transactions.dll
+----------------------------------------
+System.EnterpriseServices
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_32/System.EnterpriseServices/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.EnterpriseServices.dll
+----------------------------------------
+System.Management
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Management/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Management.dll
+----------------------------------------
+System.Numerics
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Numerics/v4.0_4.0.0.0__b77a5c561934e089/System.Numerics.dll
+----------------------------------------
+System.resources
+    Wersja zestawu: 4.0.0.0
+    Wersja Win32: 4.6.1038.0 built by: NETFXREL2
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.resources/v4.0_4.0.0.0_pl_b77a5c561934e089/System.resources.dll
+----------------------------------------
+
+************** Debugowanie w trybie JIT **************
+Aby w³¹czyæ debugowanie w trybie just in time (JIT), plik .config tej
+aplikacji lub komputera (machine.config) musi mieæ
+wartoœæ jitDebugging ustawion¹ w sekcji system.windows.forms.
+Aplikacja musi byæ równie¿ skompilowana z w³¹czonym
+debugowaniem.
+
+Na przyk³ad:
+
+<configuration>
+    <system.windows.forms jitDebugging="true" />
+</configuration>
+
+Gdy debugowanie JIT jest w³¹czone, wszystkie nieobs³ugiwane wyj¹tki
+s¹ wysy³ane do debugera JIT zarejestrowanego na komputerze
+i nie s¹ obs³ugiwane w tym oknie dialogowym.
+
+
